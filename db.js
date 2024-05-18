@@ -4,7 +4,7 @@ const pool = mysql.createPool({
   connectionLimit: 10,
   host: 'todolist.ctkqqkkmwl79.us-east-2.rds.amazonaws.com',
   user: 'admin',
-  password: 'Bing_2905!',
+  password: 'abcdefg',
   database: 'todo_db'
 });
 
